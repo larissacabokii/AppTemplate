@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.larissacaboski.larissa
 
 import org.junit.Test
 

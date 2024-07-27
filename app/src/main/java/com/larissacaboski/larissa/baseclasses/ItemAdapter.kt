@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.baseclasses
+package com.larissacaboski.larissa.baseclasses
 
 
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.jailton.apptemplateproject.R
+import com.larissacaboski.larissa.R
 
 class StoreAdapter(private val storeList: List<Item>) : RecyclerView.Adapter<StoreAdapter.StoreViewHolder>() {
 
