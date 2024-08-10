@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.ui.login
+package com.larissacaboski.larissa.ui.login
 
 import android.content.Intent
 import android.os.Bundle
@@ -26,11 +26,12 @@ import com.google.android.gms.auth.api.Auth
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.google.android.gms.auth.api.signin.GoogleSignInResult
 import com.google.android.gms.common.SignInButton
-import com.jailton.apptemplateproject.MainActivity
-import com.jailton.apptemplateproject.MainActivity.Companion.usuarioLogado
-import com.jailton.apptemplateproject.R
-import com.jailton.apptemplateproject.baseclasses.Usuario
-import com.jailton.apptemplateproject.ui.usuario.CadastroUsuarioActivity
+import com.larissacaboski.larissa.MainActivity
+import com.larissacaboski.larissa.MainActivity.Companion.usuarioLogado
+import com.larissacaboski.larissa.R
+import com.larissacaboski.larissa.baseclasses.Usuario
+import com.larissacaboski.larissa.ui.usuario.CadastroUsuarioActivity
+//import com.larissacaboski.larissa.MainActivity
 
 class LoginActivity : AppCompatActivity() {
 

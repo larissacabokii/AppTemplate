@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.ui.home
+package com.larissacaboski.larissa.ui.home
 
 
 import android.Manifest
@@ -31,10 +31,10 @@ import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
-import com.jailton.apptemplateproject.R
-import com.jailton.apptemplateproject.baseclasses.Item
-import com.jailton.apptemplateproject.baseclasses.StoreAdapter
-import com.jailton.apptemplateproject.databinding.FragmentHomeBinding
+import com.larissacaboski.larissa.R
+import com.larissacaboski.larissa.baseclasses.Item
+import com.larissacaboski.larissa.baseclasses.StoreAdapter
+import com.larissacaboski.larissa.databinding.FragmentHomeBinding
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
